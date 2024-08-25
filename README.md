@@ -43,7 +43,7 @@
 
 - **COVID-19 Data in Europe** - [Link](https://www.ecdc.europa.eu/en/covid-19/data)
 
-- **WHO European Health for All Database** - ~~~~[Link](https://gateway.euro.who.int/en/datasets/european-health-for-all-database/)~~ (Link Broken)~~ (Link Broken)
+- **WHO European Health for All Database** - ~~[Link](https://gateway.euro.who.int/en/datasets/european-health-for-all-database/)~~ (Link Broken)
 
 - **OECD Health Data** - [Link](https://data.oecd.org/health.htm)
 
@@ -83,7 +83,7 @@
 
 ### Economy and Employment
 
-- **European Patent Office Patent Statistics** - ~~~~~~~~[Link](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)
+- **European Patent Office Patent Statistics** - ~~~~[Link](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)~~ (Link Broken)~~ (Link Broken)
 
 - **EU Structural and Investment Funds Data** - [Link](https://cohesiondata.ec.europa.eu/)
 
@@ -96,7 +96,7 @@
 
 - **EEA Air Quality Data** - [Link](https://www.eea.europa.eu/themes/air/air-quality-concentrations)
 
-- **EEA Waterbase - Water Quality Data** - ~~~~~~[Link](https://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality-1)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **EEA Waterbase - Water Quality Data** - ~~~~[Link](https://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality-1)~~ (Link Broken)~~  (Link Broken)
 
 - **EU Natura 2000 Protected Areas Data** - [Link](https://www.eea.europa.eu/data-and-maps/data/natura-11)
 
@@ -108,7 +108,7 @@
 
 - **European Gender Equality Index** - [Link](https://eige.europa.eu/gender-equality-index)
 
-- **European Youth Survey** - ~~~~~~[Link](https://ec.europa.eu/info/strategy/priorities-2019-2024/promoting-our-european-way-life/youth/data-and-surveys_en)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **European Youth Survey** - ~~~~[Link](https://ec.europa.eu/info/strategy/priorities-2019-2024/promoting-our-european-way-life/youth/data-and-surveys_en)~~ (Link Broken)~~  (Link Broken)
 
 - **European Public Opinion Surveys (Eurobarometer)** - [Link](https://europa.eu/eurobarometer/surveys/detail/2552)
   
@@ -119,7 +119,7 @@
 
 - **European Space Agency (ESA) Earth Observation Data** - [Link](https://www.esa.int/Applications/Observing_the_Earth)
 
-- **European Patent Office Patent Statistics** - ~~~~~~~~[Link](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)
+- **European Patent Office Patent Statistics** - ~~~~[Link](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)~~ (Link Broken)~~ (Link Broken)
 
 - **CERN Open Data Portal** - [Link](http://opendata.cern.ch/)
 
@@ -160,9 +160,9 @@
 
 - **US Federal Budget Data** - [Link](https://www.usaspending.gov/download_center/agency/2021_all_federal_accounts.csv)
 
-- **National Parks Visitor Statistics** - ~~~~~~[Link](https://irma.nps.gov/Stats/FileDownload/12846)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **National Parks Visitor Statistics** - ~~~~[Link](https://irma.nps.gov/Stats/FileDownload/12846)~~ (Link Broken)~~  (Link Broken)
 
-- **2010 US Census Data** - ~~~~~~[Link](https://www.census.gov/2010census/csv_files.html)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **2010 US Census Data** - ~~~~[Link](https://www.census.gov/2010census/csv_files.html)~~ (Link Broken)~~  (Link Broken)
 
 - **White House Visitor Records** - [Link](https://www.whitehouse.gov/briefing-room/statements-releases/)
 
@@ -172,7 +172,7 @@
 
 - **Federal Employee Salaries** - [Link](https://www.fedsdatacenter.com/federal-pay-rates/)
 
-- **US Immigration Statistics** - ~~~~~~[Link](https://www.dhs.gov/immigration-statistics/datasets)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **US Immigration Statistics** - ~~~~[Link](https://www.dhs.gov/immigration-statistics/datasets)~~ (Link Broken)~~  (Link Broken)
 
 - **NOAA Weather Data** - [Link](https://www.ncdc.noaa.gov/cdo-web/datasets)
 
@@ -182,11 +182,11 @@
 
 - **Hospital Readmissions Reduction Program** - [Link](https://data.cms.gov/provider-data/dataset/ynj2-r877)
 
-- **National Health and Nutrition Examination Survey** - [Link](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx)
+- **National Health and Nutrition Examination Survey** - ~~[Link](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx)~~ (Link Broken)
 
-- **Medicare Inpatient Prospective Payment System** - ~~~~~~[Link](https://www.cms.gov/files/zip/2021-ipps-final-rule-tables.zip)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Medicare Inpatient Prospective Payment System** - ~~~~[Link](https://www.cms.gov/files/zip/2021-ipps-final-rule-tables.zip)~~ (Link Broken)~~  (Link Broken)
 
-- **COVID-19 Hospitalization Data** - ~~~~~~[Link](https://healthdata.gov/dataset/COVID-19-Hospitalization-Data-County/6ni3-n93d)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **COVID-19 Hospitalization Data** - ~~~~[Link](https://healthdata.gov/dataset/COVID-19-Hospitalization-Data-County/6ni3-n93d)~~ (Link Broken)~~  (Link Broken)
 
 - **Behavioral Risk Factor Surveillance System (BRFSS)** - [Link](https://www.cdc.gov/brfss/annual_data/annual_data.htm)
 
@@ -210,9 +210,9 @@
 
 - **K-12 Public School Data** - [Link](https://nces.ed.gov/ccd/)
 
-- **Federal Student Aid Data Center** - ~~~~[Link](https://studentaid.gov/data-center)~~ (Link Broken)~~ (Link Broken)
+- **Federal Student Aid Data Center** - ~~[Link](https://studentaid.gov/data-center)~~ (Link Broken)
 
-- **Higher Education General Information Survey (HEGIS)** - ~~~~~~[Link](https://nces.ed.gov/surveys/hegis/)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Higher Education General Information Survey (HEGIS)** - ~~~~[Link](https://nces.ed.gov/surveys/hegis/)~~ (Link Broken)~~  (Link Broken)
 
 - **National Assessment of Educational Progress (NAEP)** - [Link](https://www.nationsreportcard.gov/)
 
@@ -220,7 +220,7 @@
 
 - **IPEDS - Integrated Postsecondary Education Data System** - [Link](https://nces.ed.gov/ipeds/use-the-data)
 
-- **School Breakfast Program Participation** - ~~~~~~[Link](https://fns-prod.azureedge.us/sites/default/files/resource-files/sbpavgannual-01fy20.csv)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **School Breakfast Program Participation** - ~~~~[Link](https://fns-prod.azureedge.us/sites/default/files/resource-files/sbpavgannual-01fy20.csv)~~ (Link Broken)~~  (Link Broken)
 
 - **Pell Grant Data** - [Link](https://www2.ed.gov/finaid/prof/resources/data/pell-institution.html)
 
@@ -234,9 +234,9 @@
 
 - **Federal Highway Administration (FHWA) Freight Analysis** - [Link](https://ops.fhwa.dot.gov/freight/freight_analysis/faf/faf5/data.htm)
 
-- **Bureau of Transportation Statistics (BTS) Data** - ~~~~~~[Link](https://www.bts.gov/data)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Bureau of Transportation Statistics (BTS) Data** - ~~~~[Link](https://www.bts.gov/data)~~ (Link Broken)~~  (Link Broken)
 
-- **Amtrak Performance Data** - ~~~~~~[Link](https://www.amtrak.com/performance-data.html)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Amtrak Performance Data** - ~~~~[Link](https://www.amtrak.com/performance-data.html)~~ (Link Broken)~~  (Link Broken)
 
 - **Public Transportation Ridership** - [Link](https://www.transit.dot.gov/ntd/data-product/monthly-module-raw-data-release)
 
@@ -246,7 +246,7 @@
 
 - **Traffic Volume Trends** - [Link](https://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm)
 
-- **Maritime Administration Data & Statistics** - ~~~~~~[Link](https://www.maritime.dot.gov/data-reports/data-statistics)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)
+- **Maritime Administration Data & Statistics** - ~~~~[Link](https://www.maritime.dot.gov/data-reports/data-statistics)~~ (Link Broken)~~ (Link Broken)
 
 
 
@@ -256,7 +256,7 @@
 
 - **US Consumer Price Index (CPI)** - [Link](https://www.bls.gov/cpi/data.htm)
 
-- **Unemployment Insurance Weekly Claims Data** - ~~~~[Link](https://oui.doleta.gov/unemploy/claims.asp)~~ (Link Broken)~~ (Link Broken)
+- **Unemployment Insurance Weekly Claims Data** - ~~[Link](https://oui.doleta.gov/unemploy/claims.asp)~~ (Link Broken)
 
 - **US Personal Income and Outlays** - [Link](https://www.bea.gov/data/income-saving/personal-income)
 
@@ -286,7 +286,7 @@
 
 - **US Geological Survey (USGS) Water Data** - [Link](https://waterdata.usgs.gov/nwis)
 
-- **USDA Crop Data** - ~~~~~~[Link](https://www.nass.usda.gov/Research_and_Science/Crop_Progress_&_Condition/index.php)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **USDA Crop Data** - ~~~~[Link](https://www.nass.usda.gov/Research_and_Science/Crop_Progress_&_Condition/index.php)~~ (Link Broken)~~  (Link Broken)
 
 - **USDA Forest Service Inventory and Analysis Data** - [Link](https://apps.fs.usda.gov/fia/datamart/datamart.html)
 
@@ -294,7 +294,7 @@
 
 - **USDA Soil Data Mart** - [Link](https://sdmdataaccess.nrcs.usda.gov/)
 
-- **USDA National Resources Inventory** - ~~~~~~[Link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/technical/nra/nri/?cid=nrcs143_014055)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **USDA National Resources Inventory** - ~~~~[Link](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/technical/nra/nri/?cid=nrcs143_014055)~~ (Link Broken)~~  (Link Broken)
 
 
 
@@ -314,7 +314,7 @@
 
 - **Child Care and Development Fund (CCDF) Data** - [Link](https://www.acf.hhs.gov/occ/data/child-care-and-development-fund-statistics)
 
-- **National Survey on Drug Use and Health (NSDUH)** - ~~~~~~[Link](https://www.samhsa.gov/data/population-data-nsduh/reports)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **National Survey on Drug Use and Health (NSDUH)** - ~~~~[Link](https://www.samhsa.gov/data/population-data-nsduh/reports)~~ (Link Broken)~~  (Link Broken)
 
 - **Foster Care Data** - [Link](https://www.acf.hhs.gov/cb/research-data-technology/statistics-research/afcars)
 
@@ -342,7 +342,7 @@
 
 - **USDA Land Values Data** - [Link](https://www.nass.usda.gov/Publications/Todays_Reports/reports/land0821.pdf)
 
-- **USDA Farm Production Expenditures** - ~~~~~~[Link](https://www.nass.usda.gov/Publications/Todays_Reports/reports/fpex0821.pdf)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **USDA Farm Production Expenditures** - ~~~~[Link](https://www.nass.usda.gov/Publications/Todays_Reports/reports/fpex0821.pdf)~~ (Link Broken)~~  (Link Broken)
 
 
 
@@ -350,7 +350,7 @@
 
 - **Federal Reserve Economic Data (FRED)** - [Link](https://fred.stlouisfed.org/)
 
-- **FDIC Bank Data** - ~~~~~~[Link](https://www.fdic.gov/resources/bank-statistics/)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **FDIC Bank Data** - ~~~~[Link](https://www.fdic.gov/resources/bank-statistics/)~~ (Link Broken)~~  (Link Broken)
 
 - **SEC EDGAR Filings** - [Link](https://www.sec.gov/edgar/searchedgar/companysearch.html)
 
@@ -360,7 +360,7 @@
 
 - **USAspending.gov Contracts Data** - [Link](https://www.usaspending.gov/)
 
-- **Department of the Treasury Transactions Report** - ~~[Link](https://fiscaldata.treasury.gov/datasets/)~~ (Link Broken)
+- **Department of the Treasury Transactions Report** - [Link](https://fiscaldata.treasury.gov/datasets/)
 
 - **US Gross Domestic Product (GDP)** - [Link](https://www.bea.gov/data/gdp/gross-domestic-product)
 
@@ -406,7 +406,7 @@
 
 - **Municipal Budget Data** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=KN1&PLanguage=1)
 
-- **Danish Parliament (Folketinget) Bills and Voting Records** - ~~~~~~[Link](https://www.ft.dk/da/dokumenter/Bestil-og-download-data)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Danish Parliament (Folketinget) Bills and Voting Records** - ~~~~[Link](https://www.ft.dk/da/dokumenter/Bestil-og-download-data)~~ (Link Broken)~~  (Link Broken)
 
 - **Public Sector Employment Statistics** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=AKU100&PLanguage=1)
 
@@ -426,15 +426,15 @@
 
 - **COVID-19 Statistics in Denmark** - [Link](https://www.ssi.dk/covid19data)
 
-- **Danish National Patient Registry** - ~~~~~~~~[Link](https://www.esundhed.dk/)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)
+- **Danish National Patient Registry** - ~~~~[Link](https://www.esundhed.dk/)~~ (Link Broken)~~ (Link Broken)
 
 - **Health Insurance Statistics** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=SYGEM1&PLanguage=1)
 
 - **Hospital Admissions Data** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=IND03&PLanguage=1)
 
-- **Danish Cancer Registry** - ~~~~~~[Link](https://www.cancer.dk/statistik/)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Danish Cancer Registry** - ~~~~[Link](https://www.cancer.dk/statistik/)~~ (Link Broken)~~  (Link Broken)
 
-- **Prescription Medication Data** - ~~~~~~~~[Link](https://www.esundhed.dk/)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)~~ (Link Broken)
+- **Prescription Medication Data** - ~~~~[Link](https://www.esundhed.dk/)~~ (Link Broken)~~ (Link Broken)
 
 - **Mental Health Statistics** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=PSYKO1&PLanguage=1)
 
@@ -496,17 +496,17 @@
 
 ### Environment and Energy
 
-- **Danish Climate Data** - ~~~~~~[Link](https://www.dmi.dk/klima/klimaet-frem-til-nu/)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Danish Climate Data** - ~~~~[Link](https://www.dmi.dk/klima/klimaet-frem-til-nu/)~~ (Link Broken)~~  (Link Broken)
 
 - **Renewable Energy Statistics in Denmark** - [Link](https://ens.dk/en/our-services/statistics-data-key-figures-and-energy-maps/annual-and-monthly-statistics)
 
-- **Air Quality Data** - ~~~~~~[Link](https://envs.au.dk/en/knowledge/air/monitoring/air-quality-data)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Air Quality Data** - ~~~~[Link](https://envs.au.dk/en/knowledge/air/monitoring/air-quality-data)~~ (Link Broken)~~  (Link Broken)
 
 - **Danish Water Quality Data** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=VAND01&PLanguage=1)
 
 - **Waste Management Data** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=MSTO2&PLanguage=1)
 
-- **Danish Biodiversity Data** - ~~~~~~[Link](https://bios.au.dk/en/knowledge/habitats/biodiversity-data)~~ (Link Broken)~~ (Link Broken)~~  (Link Broken)
+- **Danish Biodiversity Data** - ~~~~[Link](https://bios.au.dk/en/knowledge/habitats/biodiversity-data)~~ (Link Broken)~~  (Link Broken)
 
 - **Danish Greenhouse Gas Emissions** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=MSTO1&PLanguage=1)
 
@@ -620,7 +620,7 @@
 
 - **Danish Weather Data** - [Link](https://www.dmi.dk/vejrarkiv/)
 
-- **Danish Scientific Research Publications** - ~~~~[Link](https://www.deff.dk/)~~ (Link Broken)~~ (Link Broken)
+- **Danish Scientific Research Publications** - ~~[Link](https://www.deff.dk/)~~ (Link Broken)
 
 - **ICT Usage in Households** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=ICT1&PLanguage=1)
 
