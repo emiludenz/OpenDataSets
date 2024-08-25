@@ -43,7 +43,7 @@
 
 - **COVID-19 Data in Europe** - [Link](https://www.ecdc.europa.eu/en/covid-19/data)
 
-- **WHO European Health for All Database** - [Link](https://gateway.euro.who.int/en/datasets/european-health-for-all-database/)
+- **WHO European Health for All Database** - ~~[Link](https://gateway.euro.who.int/en/datasets/european-health-for-all-database/)~~ (Link Broken)
 
 - **OECD Health Data** - [Link](https://data.oecd.org/health.htm)
 
@@ -83,7 +83,7 @@
 
 ### Economy and Employment
 
-- **European Patent Office Patent Statistics** - [Link](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)
+- **European Patent Office Patent Statistics** - ~~~~[Link](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)~~ (Link Broken)~~ (Link Broken)
 
 - **EU Structural and Investment Funds Data** - [Link](https://cohesiondata.ec.europa.eu/)
 
@@ -119,7 +119,7 @@
 
 - **European Space Agency (ESA) Earth Observation Data** - [Link](https://www.esa.int/Applications/Observing_the_Earth)
 
-- **European Patent Office Patent Statistics** - [Link](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)
+- **European Patent Office Patent Statistics** - ~~~~[Link](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)~~ (Link Broken)~~ (Link Broken)
 
 - **CERN Open Data Portal** - [Link](http://opendata.cern.ch/)
 
@@ -210,7 +210,7 @@
 
 - **K-12 Public School Data** - [Link](https://nces.ed.gov/ccd/)
 
-- **Federal Student Aid Data Center** - [Link](https://studentaid.gov/data-center)
+- **Federal Student Aid Data Center** - ~~[Link](https://studentaid.gov/data-center)~~ (Link Broken)
 
 - **Higher Education General Information Survey (HEGIS)** - ~~~~[Link](https://nces.ed.gov/surveys/hegis/)~~ (Link Broken)~~  (Link Broken)
 
@@ -256,7 +256,7 @@
 
 - **US Consumer Price Index (CPI)** - [Link](https://www.bls.gov/cpi/data.htm)
 
-- **Unemployment Insurance Weekly Claims Data** - [Link](https://oui.doleta.gov/unemploy/claims.asp)
+- **Unemployment Insurance Weekly Claims Data** - ~~[Link](https://oui.doleta.gov/unemploy/claims.asp)~~ (Link Broken)
 
 - **US Personal Income and Outlays** - [Link](https://www.bea.gov/data/income-saving/personal-income)
 
@@ -360,7 +360,7 @@
 
 - **USAspending.gov Contracts Data** - [Link](https://www.usaspending.gov/)
 
-- **Department of the Treasury Transactions Report** - [Link](https://fiscaldata.treasury.gov/datasets/)
+- **Department of the Treasury Transactions Report** - ~~[Link](https://fiscaldata.treasury.gov/datasets/)~~ (Link Broken)
 
 - **US Gross Domestic Product (GDP)** - [Link](https://www.bea.gov/data/gdp/gross-domestic-product)
 
@@ -426,7 +426,7 @@
 
 - **COVID-19 Statistics in Denmark** - [Link](https://www.ssi.dk/covid19data)
 
-- **Danish National Patient Registry** - [Link](https://www.esundhed.dk/)
+- **Danish National Patient Registry** - ~~~~[Link](https://www.esundhed.dk/)~~ (Link Broken)~~ (Link Broken)
 
 - **Health Insurance Statistics** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=SYGEM1&PLanguage=1)
 
@@ -434,7 +434,7 @@
 
 - **Danish Cancer Registry** - ~~~~[Link](https://www.cancer.dk/statistik/)~~ (Link Broken)~~  (Link Broken)
 
-- **Prescription Medication Data** - [Link](https://www.esundhed.dk/)
+- **Prescription Medication Data** - ~~~~[Link](https://www.esundhed.dk/)~~ (Link Broken)~~ (Link Broken)
 
 - **Mental Health Statistics** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=PSYKO1&PLanguage=1)
 
@@ -620,7 +620,7 @@
 
 - **Danish Weather Data** - [Link](https://www.dmi.dk/vejrarkiv/)
 
-- **Danish Scientific Research Publications** - [Link](https://www.deff.dk/)
+- **Danish Scientific Research Publications** - ~~[Link](https://www.deff.dk/)~~ (Link Broken)
 
 - **ICT Usage in Households** - [Link](https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=ICT1&PLanguage=1)
 
