@@ -10,8 +10,9 @@ readme_file = "README.md"
 with open(readme_file, 'r') as file:
     content = file.read()
 
-# Step 2: Find all links in the README.md file
-links = re.findall(r'\[(.*?)\]\((.*?)\)', content)
+# Step 2: Find all links in the README.md file, excluding those already marked as broken
+pattern = r'\[(.*?)\]\((.*?)\)(?! \(Link Broken\))'
+links = re.findall(pattern, content)
 
 # Function to check if a link is valid (does not return 404)
 def check_link(link):
@@ -21,9 +22,9 @@ def check_link(link):
         return link, response.status_code != 404
     except requests.RequestException as e:
         print(f"Error checking link {url}: {e}")
-        return link, True
+        return link, False
 
-# Step 3: Check all links in parallel using ThreadPoolExecutor
+# Step 3: Check all valid links in parallel using ThreadPoolExecutor
 valid_links = []
 with ThreadPoolExecutor(max_workers=10) as executor:  # Adjust max_workers based on your needs
     futures = {executor.submit(check_link, link): link for link in links}
@@ -32,7 +33,7 @@ with ThreadPoolExecutor(max_workers=10) as executor:  # Adjust max_workers based
         if is_valid:
             valid_links.append(link)
 
-# Step 4: Update the README.md file to strikethrough broken links and append "Link Broken"
+# Step 4: Update the README.md file to strikethrough newly broken links and retain already marked broken links
 updated_content = content
 for link_text, link_url in links:
     if (link_text, link_url) not in valid_links:
@@ -51,7 +52,7 @@ try:
     subprocess.run(["git", "add", readme_file], check=True)
 
     # Commit the changes
-    commit_message = "Mark broken links in README.md"
+    commit_message = "Mark newly broken links in README.md"
     subprocess.run(["git", "commit", "-m", commit_message], check=True)
 
     # Push the changes to the remote repository
