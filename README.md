@@ -18,15 +18,12 @@
 ## Europe
 
 ### General
-[European Data, General](https://data.europa.eu/en)
-
-[European Central Bank](https://data.ecb.europa.eu/data/datasets)
-
-[European Environment Agency](https://www.eea.europa.eu/en/datahub?size=n_10_n&filters%5B0%5D%5Bfield%5D=issued.date&filters%5B0%5D%5Btype%5D=any&filters%5B0%5D%5Bvalues%5D%5B0%5D=All%20time)
-
-[Database of External Quality Assurance Results](https://www.eqar.eu/qa-results/download-data-sets/)
-
-[Open Data Denmark](https://www.opendata.dk)
+- [European Data, General](https://data.europa.eu/en)
+- [European Central Bank](https://data.ecb.europa.eu/data/datasets)
+- [European Environment Agency](https://www.eea.europa.eu/en/datahub?size=n_10_n&filters%5B0%5D%5Bfield%5D=issued.date&filters%5B0%5D%5Btype%5D=any&filters%5B0%5D%5Bvalues%5D%5B0%5D=All%20time)
+- [Database of External Quality Assurance Results](https://www.eqar.eu/qa-results/download-data-sets/)
+- [Open Data Denmark](https://www.opendata.dk)
+- [StatBank finansdanmark](https://rkr.statbank.dk/statbank5a/default.asp?w=1920)
 
 ### Government and Policy
 
